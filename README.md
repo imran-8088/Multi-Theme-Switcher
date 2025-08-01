@@ -41,7 +41,7 @@ Clone the repository and run the app locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/multi-theme-switcher-shaikh-imran.git
+git clone https://github.com/imran-8088/Multi-Theme-Switcher.git
 
 # Navigate into the project directory
 cd multi-theme-switcher-shaikh-imran
