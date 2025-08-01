@@ -59,10 +59,9 @@ npm run dev
 📁 Project Structure (Simplified)
 
 src/
-├── components/
+├── components/       // Reusable UI components
 ├── context/          // Theme context
 ├── pages/            // Home, About, Contact
-├── themes/           // Theme configurations
 ├── types/            // TypeScript types
 ├── App.tsx
 ├── main.tsx
