@@ -54,13 +54,11 @@ npm run dev
 
 
 🌐 Live Demo
-🔗 Live App: Coming Soon
-(Replace this with your Vercel/Netlify link when available)
+🔗 Live App: https://theme-app-imran.vercel.app/
 
 📁 Project Structure (Simplified)
 
 src/
-├── assets/
 ├── components/
 ├── context/          // Theme context
 ├── pages/            // Home, About, Contact
