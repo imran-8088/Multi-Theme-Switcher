@@ -44,7 +44,7 @@ Clone the repository and run the app locally.
 git clone https://github.com/imran-8088/shaikh-imran-frontend-dev.git
 
 # Navigate into the project directory
-cd multi-theme-switcher-shaikh-imran
+cd shaikh-imran-frontend-dev
 
 # Install dependencies
 npm install
